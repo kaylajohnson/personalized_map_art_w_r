@@ -264,7 +264,7 @@ ggplot() +
           element_rect(fill = rgb(0.92,0.679,0.105)))
 ```
 
-One last thing, to mark that special place. For my lab group, that is our alternate meeting place, The MSU Dairy Stone.
+One last thing, to mark that special place. For my lab group, that is our alternate meeting place, The MSU Dairy Store.
 
 First get the coordinates for Google Maps.
 ```{r}
